@@ -1,0 +1,27 @@
+{
+  "identifier": "6C1A0000-0000-0000-0000-000000000001",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "6C1A0003",
+      "localizations": [
+        {
+          "description": "Budget-vs-actual comparison and receipt photo storage",
+          "displayName": "Movingcost Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.movingcost.pro",
+      "referenceName": "Movingcost Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
